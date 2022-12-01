@@ -1,0 +1,74 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+
+
+
+.about-title {
+    padding: 100px 0;
+    margin-top: 300px;
+	color: #696969;
+	font-size: 50px;
+}
+
+.about-title2 {
+    padding: 100px 0;
+    margin-top: 300px;
+    color: #B22222;
+    font-size: 50px;
+}
+.about-head {
+    color: #696969;
+}
+.about-body {
+    padding: 100px 0;
+	color: #B22222;
+}
+
+
+.txtContainer {
+	width: 95%;
+	padding: 10 0 0 0;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+.t-container {
+	min-height: calc(0px + 100vh);
+	width: 80%;
+	margin: 0 10%;
+	background-color: transparent;
+	padding: 0;
+	font-size: 20px;
+	color: #696969;
+}
+
+.t-container2 {
+    min-height: calc(0px + 100vh);
+    width: 80%;
+    margin: 0 10%;
+    background-color: transparent;
+    padding: 0;
+    font-size: 20px;
+    color: #B22222;
+}
+section h5 {
+	text-align: left;
+    position: relative;
+    top: 25px;
+	font-size: 2vw;
+	color: #B22222;
+}
+.txtContainer h5 {
+	text-align: left;
+	font-size: 28px;
+}
+.txtContainer p2 {
+	color: #B22222;
+	font-size: 20px;
+	margin: 10 20 0 0%;
+}
+
+

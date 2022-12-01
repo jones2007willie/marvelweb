@@ -1,0 +1,114 @@
+body{
+   background-color : white;
+}
+
+
+
+#marvel_general{
+   height : 500px;
+   width : 600px;
+   margin-top : 550px;
+   background-color : white;
+   box-shadow: 10px 40px 5px black;
+   border-width:15px;
+   border-style:inset;
+}
+
+#next_item{
+   height : 500px;
+   width : 600px;
+   margin-top : 250px;
+   background-color : white;
+   box-shadow: 10px 40px 5px black;
+   border-width:15px;
+   border-style:inset;
+}
+
+
+
+#marvel_nav {
+margin-top: 50px;
+padding: 0 0 20px 10px;
+
+}
+  
+#marvel_nav li {
+   margin: 0;
+   padding: 0;
+   display: inline;
+   list-style-type: none;
+}
+  
+#marvel_nav a:link, #marvel_nav a:visited {
+   float: left;
+   font-size: 20px;
+   line-height: 14px;
+   font-weight: bold;
+   padding: 0 12px 6px 12px;
+   text-decoration: none;
+   color: black;
+}
+
+#marvel_nav a:hover {
+   color: red;
+}
+  
+#DC_nav {
+margin-top: 50px;
+padding: 0 0 20px 10px;
+
+}
+  
+#DC_nav li {
+   margin: 0;
+   padding: 0;
+   display: inline;
+   list-style-type: none;
+}  
+
+#DC_nav a:link, #DC_nav a:visited {
+   float: left;
+   font-size: 20px;
+   line-height: 14px;
+   font-weight: bold;
+   padding: 0 12px 6px 12px;
+   text-decoration: none;
+   color: #399AE5;
+}
+
+#DC_nav a:hover {
+   color: red;
+}
+
+
+.back_button {
+background-color: black;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+
+.back_button:hover{
+   background-color: #d3d3d3;
+}
+
+.float_left{
+   float : left;
+}
+
+.float_margin_pos{
+   float : left;
+   margin-left : 20px;
+}
+
+.extend_margin{
+   margin-right: 100%;
+   margin-bottom: 20px;
+}
+
